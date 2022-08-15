@@ -46,10 +46,18 @@ h2 {
 footer {
   text-align: center;
   margin-top: 35px;
+  padding-bottom: 40px;
 }
 footer a {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   text-decoration: none;
   color: black;
+}
+.navbar_botton {
+  display: flex;
+  justify-content: center;
+}
+.navbar_botton a {
+  padding: 15px;
 }
