@@ -1,0 +1,18 @@
+body {
+	background: #fff;
+}
+img {
+	box-shadow: 0 0 10px rgba(39,38,40,0.4);
+}
+.navbar_top a {
+  color: black;
+}
+footer a {
+  color: black;
+}
+.changeTheme[data-theme='dark'] {
+	display: block;
+}
+.changeTheme[data-theme='light'] {
+	display: none;
+}
